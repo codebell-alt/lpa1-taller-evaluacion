@@ -7,7 +7,7 @@
 
 ## Autor
 
-- [@estudiante](https://www.github.com/estudiante)
+- [@juanrs69](https://github.com/Juanrs69/)
 
 ## Descripción del Proyecto
 
