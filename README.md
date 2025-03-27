@@ -7,7 +7,6 @@
 
 ## Autor
 
-<<<<<<< HEAD
 - [@juanrs69](https://github.com/Juanrs69/)
 
 ## Descripción del Proyecto
